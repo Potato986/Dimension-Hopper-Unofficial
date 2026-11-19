@@ -1,0 +1,1374 @@
+[
+  {
+    "File": "!configanytime-3.0.jar",
+    "Bytes": 5201
+  },
+  {
+    "File": "!mixinbooter-10.6.jar",
+    "Bytes": 2382989
+  },
+  {
+    "File": "!mod-director-launchwrapper-1.9.1.jar",
+    "Bytes": 2926946
+  },
+  {
+    "File": "!Red-Core-MC-1.8-1.12-0.6.jar",
+    "Bytes": 151154
+  },
+  {
+    "File": "`FermiumBooter-1.3.1.jar",
+    "Bytes": 1290474
+  },
+  {
+    "File": "ActuallyAdditions-1.12.2-r152.jar",
+    "Bytes": 2958699
+  },
+  {
+    "File": "AdHooks-1.12.2-3.3.1.0-build.0626.jar",
+    "Bytes": 99441
+  },
+  {
+    "File": "ae2-uel-v0.56.7.jar",
+    "Bytes": 4451298
+  },
+  {
+    "File": "AE2CT-Legacy-0.1.2.jar",
+    "Bytes": 140468
+  },
+  {
+    "File": "ae2stuff-1.12.2-0.10.jar",
+    "Bytes": 621163
+  },
+  {
+    "File": "AE2WTLib-1.12.2-1.0.34.jar",
+    "Bytes": 243622
+  },
+  {
+    "File": "AEAdditions-1.12.2-1.3.8.jar",
+    "Bytes": 2473304
+  },
+  {
+    "File": "aether_ii-1.12.2-0.3.1-universal.jar",
+    "Bytes": 37457637
+  },
+  {
+    "File": "AkashicTome-1.2-12.jar",
+    "Bytes": 44663
+  },
+  {
+    "File": "Alfheim-1.6.jar",
+    "Bytes": 70512
+  },
+  {
+    "File": "antighost-1.12-forge14.21.1.2387-1.1.1.jar",
+    "Bytes": 142727
+  },
+  {
+    "File": "AoA3-3.3.6.jar",
+    "Bytes": 88931463
+  },
+  {
+    "File": "Apotheosis-1.12.2-1.12.5.jar",
+    "Bytes": 471338
+  },
+  {
+    "File": "AppleCore-mc1.12.2-3.4.0.jar",
+    "Bytes": 89615
+  },
+  {
+    "File": "AppleSkin-mc1.12-1.0.14.jar",
+    "Bytes": 33683
+  },
+  {
+    "File": "AquaAcrobatics-1.15.4.jar",
+    "Bytes": 182194
+  },
+  {
+    "File": "Aquaculture-1.12.2-1.6.8.jar",
+    "Bytes": 186686
+  },
+  {
+    "File": "armoreablemobs-1.12.2-1.1.8.jar",
+    "Bytes": 21855
+  },
+  {
+    "File": "armoryexpansion-2.0.0-alpha.jar",
+    "Bytes": 82545
+  },
+  {
+    "File": "Aroma1997Core-1.12.2-2.0.0.2.b167.jar",
+    "Bytes": 399634
+  },
+  {
+    "File": "Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.b97.jar",
+    "Bytes": 130384
+  },
+  {
+    "File": "artisanautomation-1.12.2-1.0.6.jar",
+    "Bytes": 203443
+  },
+  {
+    "File": "artisanintegrations-1.12.2-1.3.0.jar",
+    "Bytes": 69678
+  },
+  {
+    "File": "artisanworktables-1.12.2-1.24.2.jar",
+    "Bytes": 1151783
+  },
+  {
+    "File": "athenaeum-1.12.2-1.19.6.jar",
+    "Bytes": 332993
+  },
+  {
+    "File": "Atum-1.12.2-2.0.20.jar",
+    "Bytes": 2683652
+  },
+  {
+    "File": "AutoRegLib-1.3-32.jar",
+    "Bytes": 108306
+  },
+  {
+    "File": "Avaritia-1.12.2-3.3.0.37-universal.jar",
+    "Bytes": 975727
+  },
+  {
+    "File": "avaritiaio-1.4.jar",
+    "Bytes": 22178
+  },
+  {
+    "File": "AvaritiaTweaks-1.12.2-1.3.1.jar",
+    "Bytes": 93504
+  },
+  {
+    "File": "base-1.12.2-3.14.0.jar",
+    "Bytes": 690000
+  },
+  {
+    "File": "bdlib-1.14.4.1-mc1.12.2.jar",
+    "Bytes": 2313893
+  },
+  {
+    "File": "bedpatch-2.2-1.12.2.jar",
+    "Bytes": 21613
+  },
+  {
+    "File": "BedrockCraft-1.0.5.jar",
+    "Bytes": 410834
+  },
+  {
+    "File": "BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar",
+    "Bytes": 77866
+  },
+  {
+    "File": "bettermobgriefinggamerule-1.12.2-7.1.0.jar",
+    "Bytes": 34338
+  },
+  {
+    "File": "BetterPetTeleporting-1.1.jar",
+    "Bytes": 31626
+  },
+  {
+    "File": "BetterQuestingUnofficial-4.2.6.jar",
+    "Bytes": 2007707
+  },
+  {
+    "File": "BiblioCraft[v2.4.6][MC1.12.2].jar",
+    "Bytes": 5185177
+  },
+  {
+    "File": "binnie-mods-1.12.2-2.5.1.212.jar",
+    "Bytes": 5860442
+  },
+  {
+    "File": "BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar",
+    "Bytes": 4746208
+  },
+  {
+    "File": "blockcraftery-1.12.2-1.3.1.jar",
+    "Bytes": 105052
+  },
+  {
+    "File": "blue_skies-1.12.2-v1.1.3.jar",
+    "Bytes": 32061474
+  },
+  {
+    "File": "BNBGamingCore-1.12.2-0.12.0.jar",
+    "Bytes": 139568
+  },
+  {
+    "File": "BNBGamingLib-1.12.2-2.17.6.jar",
+    "Bytes": 132644
+  },
+  {
+    "File": "bogosorter-1.4.11.jar",
+    "Bytes": 249293
+  },
+  {
+    "File": "bonsaitrees-1.1.4-b170.jar",
+    "Bytes": 658780
+  },
+  {
+    "File": "Bookshelf-1.12.2-2.3.590.jar",
+    "Bytes": 266636
+  },
+  {
+    "File": "boptools-1.12-0.0.3.0.jar",
+    "Bytes": 181984
+  },
+  {
+    "File": "Botania r1.10-364.4.jar",
+    "Bytes": 13817704
+  },
+  {
+    "File": "botaniatweaks-1.9.1.jar",
+    "Bytes": 269249
+  },
+  {
+    "File": "BQ_Multiblock_Structure_Integration-1.0.9.jar",
+    "Bytes": 64896
+  },
+  {
+    "File": "bqforestry-2.1.0.jar",
+    "Bytes": 266030
+  },
+  {
+    "File": "BrandonsCore-1.12.2-2.4.20.162-universal.jar",
+    "Bytes": 827900
+  },
+  {
+    "File": "Bubbles-2.4.8.jar",
+    "Bytes": 338577
+  },
+  {
+    "File": "BuildingGadgets-2.8.4.jar",
+    "Bytes": 719492
+  },
+  {
+    "File": "calculator-1.12.2-5.0.12-15.jar",
+    "Bytes": 1425704
+  },
+  {
+    "File": "campfire-1.12-v1.2.jar",
+    "Bytes": 32235
+  },
+  {
+    "File": "capabilityadapter-1.1.3.jar",
+    "Bytes": 81749
+  },
+  {
+    "File": "CarbonConfig-1.12.2-1.2.4.jar",
+    "Bytes": 1176455
+  },
+  {
+    "File": "CaveGenerator-1.2-1.12.2.jar",
+    "Bytes": 565609
+  },
+  {
+    "File": "Cavern_1.12.2-v2.3.1.jar",
+    "Bytes": 12824688
+  },
+  {
+    "File": "CD4017BE_lib-1.12.2-6.5.1.jar",
+    "Bytes": 669428
+  },
+  {
+    "File": "Ceramics-1.12-1.3.7b.jar",
+    "Bytes": 400697
+  },
+  {
+    "File": "Chambers-1.5.2.jar",
+    "Bytes": 282999
+  },
+  {
+    "File": "Chameleon-1.12-4.1.3.jar",
+    "Bytes": 96859
+  },
+  {
+    "File": "Charset-Lib-0.5.6.6.jar",
+    "Bytes": 1057690
+  },
+  {
+    "File": "ChatFlow-1.4-7.jar",
+    "Bytes": 16428
+  },
+  {
+    "File": "Chisel-MC1.12.2-1.0.2.45.jar",
+    "Bytes": 4755282
+  },
+  {
+    "File": "Chunk-Pregenerator-1.12.2-4.4.9.jar",
+    "Bytes": 799115
+  },
+  {
+    "File": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+    "Bytes": 704330
+  },
+  {
+    "File": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+    "Bytes": 848187
+  },
+  {
+    "File": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+    "Bytes": 505987
+  },
+  {
+    "File": "CommonCapabilities-1.12.2-2.4.8.jar",
+    "Bytes": 361018
+  },
+  {
+    "File": "compactmachines3-1.12.2-3.0.18-b278.jar",
+    "Bytes": 730062
+  },
+  {
+    "File": "CompatSkills-1.12.2-1.17.0.jar",
+    "Bytes": 378621
+  },
+  {
+    "File": "conarm-1.12.2-1.2.5.10.jar",
+    "Bytes": 894824
+  },
+  {
+    "File": "ConsoleFilter-1.12.2-1.1.1.jar",
+    "Bytes": 9394
+  },
+  {
+    "File": "ContentTweaker-1.12.2-4.10.0.jar",
+    "Bytes": 278152
+  },
+  {
+    "File": "CookingForBlockheads_1.12.2-6.5.0.jar",
+    "Bytes": 595301
+  },
+  {
+    "File": "CosmeticArmorReworked-1.12.2-v5a.jar",
+    "Bytes": 72111
+  },
+  {
+    "File": "CraftingTweaks_1.12.2-9.0.1.jar",
+    "Bytes": 101956
+  },
+  {
+    "File": "CraftTweaker2-1.12-4.1.20.704.jar",
+    "Bytes": 1589533
+  },
+  {
+    "File": "CreativeCore_v1.10.71_mc1.12.2.jar",
+    "Bytes": 1321137
+  },
+  {
+    "File": "ctintegration-1.8.0.jar",
+    "Bytes": 78433
+  },
+  {
+    "File": "Cucumber-1.12.2-1.1.3.jar",
+    "Bytes": 126699
+  },
+  {
+    "File": "Customized-Dungeon-Loot-1.12 -(v.1.0.3).jar",
+    "Bytes": 1694034
+  },
+  {
+    "File": "CustomStartingGear-1.12-1.2.0.9-universal.jar",
+    "Bytes": 23171
+  },
+  {
+    "File": "CyclopsCore-1.12.2-1.6.7.jar",
+    "Bytes": 1060985
+  },
+  {
+    "File": "DarknessLib-1.12.2-1.1.2.jar",
+    "Bytes": 52092
+  },
+  {
+    "File": "DarkUtils-1.12.2-1.8.230.jar",
+    "Bytes": 426515
+  },
+  {
+    "File": "datmoddingapi-1.3.3.jar",
+    "Bytes": 20960
+  },
+  {
+    "File": "Dig-1.1.16_1.12.1.jar",
+    "Bytes": 35702
+  },
+  {
+    "File": "Dimensional Doors-3.2.3.jar",
+    "Bytes": 8422511
+  },
+  {
+    "File": "DimensionStages-1.12.2-2.0.23.jar",
+    "Bytes": 18251
+  },
+  {
+    "File": "dimentional_ores-0.0.3.jar",
+    "Bytes": 5280151
+  },
+  {
+    "File": "dimhoppertweaks-3.0.1+1.12.2.jar",
+    "Bytes": 7864864
+  },
+  {
+    "File": "Draconic-Evolution-1.12.2-2.3.28.354-universal.jar",
+    "Bytes": 5708839
+  },
+  {
+    "File": "dropt-1.12.2-1.19.4.jar",
+    "Bytes": 150794
+  },
+  {
+    "File": "dynamistics-1.0.2.jar",
+    "Bytes": 43317
+  },
+  {
+    "File": "dynviewdist-1.12-1.3.jar",
+    "Bytes": 9627
+  },
+  {
+    "File": "eguilib-0.1.2.jar",
+    "Bytes": 58047
+  },
+  {
+    "File": "ElecCore-1.12.2-1.9.453.jar",
+    "Bytes": 544144
+  },
+  {
+    "File": "EnchantingPlus-1.12.2-5.0.179.jar",
+    "Bytes": 146787
+  },
+  {
+    "File": "EnderCore-1.12.2-0.5.78.jar",
+    "Bytes": 660062
+  },
+  {
+    "File": "EnderIO-1.12.2-5.3.72.jar",
+    "Bytes": 8946588
+  },
+  {
+    "File": "EnderIO-endergy-1.12.2-5.3.72.jar",
+    "Bytes": 118017
+  },
+  {
+    "File": "EnderIO-zoo-1.12.2-5.3.72.jar",
+    "Bytes": 485090
+  },
+  {
+    "File": "EnderStorage-1.12.2-2.4.6.137-universal.jar",
+    "Bytes": 223250
+  },
+  {
+    "File": "EnderTweaker-1.12.2-1.2.3.jar",
+    "Bytes": 31753
+  },
+  {
+    "File": "environmentaltech-1.12.2-2.0.20.1.jar",
+    "Bytes": 1001848
+  },
+  {
+    "File": "Erebus-1.0.32.jar",
+    "Bytes": 12365648
+  },
+  {
+    "File": "Exchangers-1.12.2-2.10.3.jar",
+    "Bytes": 334852
+  },
+  {
+    "File": "extendedcrafting-nomifactory-edition-1.7.0.7.jar",
+    "Bytes": 497677
+  },
+  {
+    "File": "ExtraPlanets-1.12.2-0.8.0.jar",
+    "Bytes": 8765044
+  },
+  {
+    "File": "extrautils2-1.12-1.9.9.jar",
+    "Bytes": 3226408
+  },
+  {
+    "File": "ExtremeReactors-1.12.2-0.4.5.68.jar",
+    "Bytes": 1149733
+  },
+  {
+    "File": "FantasticLib-1.12.2.069.jar",
+    "Bytes": 711136
+  },
+  {
+    "File": "FasterLadderClimbing-1.12-0.1-146.jar",
+    "Bytes": 32750
+  },
+  {
+    "File": "fermiumasm-5.28.jar",
+    "Bytes": 526996
+  },
+  {
+    "File": "FermiumMixins-1.0.3.jar",
+    "Bytes": 791154
+  },
+  {
+    "File": "Fixeroo-2.3.6b.jar",
+    "Bytes": 219725
+  },
+  {
+    "File": "Fluid Craft for AE2-2.6.6-r.jar",
+    "Bytes": 686935
+  },
+  {
+    "File": "FluxNetworks-1.12.2-4.1.1.34.jar",
+    "Bytes": 475994
+  },
+  {
+    "File": "forestry_1.12.2-5.8.2.426.jar",
+    "Bytes": 5396469
+  },
+  {
+    "File": "ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar",
+    "Bytes": 950755
+  },
+  {
+    "File": "Forgelin-Continuous-2.2.0.0.jar",
+    "Bytes": 7363153
+  },
+  {
+    "File": "ForgeMultipart-1.12.2-2.6.2.83-universal.jar",
+    "Bytes": 1304958
+  },
+  {
+    "File": "ForgivingVoid_1.12.2-1.1.0.jar",
+    "Bytes": 10649
+  },
+  {
+    "File": "FTBBackups-1.1.0.1.jar",
+    "Bytes": 43764
+  },
+  {
+    "File": "FTBLib-5.4.7.2.jar",
+    "Bytes": 934370
+  },
+  {
+    "File": "FTBUtilities-5.4.1.131.jar",
+    "Bytes": 425832
+  },
+  {
+    "File": "fxcontrol-1.12-0.1.15.jar",
+    "Bytes": 121908
+  },
+  {
+    "File": "gaiadimension-1.12.2-1.0.5.jar",
+    "Bytes": 1690503
+  },
+  {
+    "File": "Galacticraft-1.12.2-4.0.7.jar",
+    "Bytes": 15675570
+  },
+  {
+    "File": "GalacticraftTweaker-1.12.2-1.0.3.jar",
+    "Bytes": 18481
+  },
+  {
+    "File": "GameStages-1.12.2-2.0.123.jar",
+    "Bytes": 54375
+  },
+  {
+    "File": "geckolib-forge-1.12.2-3.0.31.jar",
+    "Bytes": 3702893
+  },
+  {
+    "File": "gendustry-1.6.5.8-mc1.12.2.jar",
+    "Bytes": 1856305
+  },
+  {
+    "File": "gendustryjei-1.0.2.jar",
+    "Bytes": 67472
+  },
+  {
+    "File": "Glacidus-1.12.2-v1.2.1.jar",
+    "Bytes": 11408661
+  },
+  {
+    "File": "good-nights-sleep-1.12.2-v0.2.2.jar",
+    "Bytes": 3060674
+  },
+  {
+    "File": "gottagofast-1.1.jar",
+    "Bytes": 47026
+  },
+  {
+    "File": "Greenery-1.12.2-9.0.jar",
+    "Bytes": 483593
+  },
+  {
+    "File": "groovyscript-1.2.5.jar",
+    "Bytes": 13667845
+  },
+  {
+    "File": "GunpowderLib-1.12.2-1.1.jar",
+    "Bytes": 23153
+  },
+  {
+    "File": "HadEnoughItems_1.12.2-4.28.0.jar",
+    "Bytes": 696432
+  },
+  {
+    "File": "HammerLib-1.12.2-12.2.58.jar",
+    "Bytes": 2591232
+  },
+  {
+    "File": "Hungering Darkness-1.12.2-1.4.1.jar",
+    "Bytes": 56845
+  },
+  {
+    "File": "HungerTweaker-1.12.2-1.3.0.jar",
+    "Bytes": 54424
+  },
+  {
+    "File": "HuntingDimension-1.12.2-1.0.43.jar",
+    "Bytes": 88821
+  },
+  {
+    "File": "iChunUtil-1.12.2-7.2.2.jar",
+    "Bytes": 581963
+  },
+  {
+    "File": "ImmersiveEngineering-0.12-98.jar",
+    "Bytes": 6360959
+  },
+  {
+    "File": "industrialforegoing-1.12.2-1.12.13-237.jar",
+    "Bytes": 1603134
+  },
+  {
+    "File": "InfernalMobs-1.12.2.jar",
+    "Bytes": 186600
+  },
+  {
+    "File": "IntegratedCrafting-1.12.2-1.0.10.jar",
+    "Bytes": 311994
+  },
+  {
+    "File": "IntegratedDynamics-1.12.2-1.1.11.jar",
+    "Bytes": 3049509
+  },
+  {
+    "File": "IntegratedTunnels-1.12.2-1.6.14.jar",
+    "Bytes": 493503
+  },
+  {
+    "File": "IntegrationForegoing-1.12.2-1.11.jar",
+    "Bytes": 220777
+  },
+  {
+    "File": "ItemPhysic_Full_1.4.37_mc1.12.2.jar",
+    "Bytes": 52615
+  },
+  {
+    "File": "ItemStages-1.12.2-2.0.51.jar",
+    "Bytes": 43406
+  },
+  {
+    "File": "IvToolkit-1.3.3-1.12.jar",
+    "Bytes": 455763
+  },
+  {
+    "File": "JAOPCA-1.12.2-2.3.13.34.jar",
+    "Bytes": 1042805
+  },
+  {
+    "File": "jeibees-0.9.0.5-mc1.12.2.jar",
+    "Bytes": 117480
+  },
+  {
+    "File": "jeiintegration_1.12.2-1.6.0.jar",
+    "Bytes": 25196
+  },
+  {
+    "File": "jepb-1.12-1.2.1.jar",
+    "Bytes": 27195
+  },
+  {
+    "File": "journeymap-1.12.2-5.7.1p3.jar",
+    "Bytes": 6851584
+  },
+  {
+    "File": "JustEnoughCalculation-1.12.2-3.2.7.jar",
+    "Bytes": 298222
+  },
+  {
+    "File": "justenoughdimensions-1.12.2-1.6.0-dev.20211009.214847.jar",
+    "Bytes": 258381
+  },
+  {
+    "File": "JustEnoughResources-1.12.2-0.9.3.203.jar",
+    "Bytes": 222318
+  },
+  {
+    "File": "KleeSlabs_1.12.2-5.4.12.jar",
+    "Bytes": 23967
+  },
+  {
+    "File": "knobcontrol-1.12-4.0.20.jar",
+    "Bytes": 182590
+  },
+  {
+    "File": "Labyrinth-1.12.2-1.0.jar",
+    "Bytes": 132892
+  },
+  {
+    "File": "libnine-1.12.2-1.2.1.jar",
+    "Bytes": 413920
+  },
+  {
+    "File": "LibrarianLib-Continuous-1.12.2-4.22-2.0-3.jar",
+    "Bytes": 5526394
+  },
+  {
+    "File": "LibraryEx-1.12.2-1.2.2.jar",
+    "Bytes": 464351
+  },
+  {
+    "File": "lightningcraft-2.9.7_1.jar",
+    "Bytes": 1313900
+  },
+  {
+    "File": "LootGames-1.12.2-1.0.3.1.jar",
+    "Bytes": 1550308
+  },
+  {
+    "File": "LootTableTweaker-1.12.2-1.1.17.jar",
+    "Bytes": 25037
+  },
+  {
+    "File": "LootTweaker-0.4.1+MC1.12.2.jar",
+    "Bytes": 136587
+  },
+  {
+    "File": "LunatriusCore-1.12.2-1.2.0.42-universal.jar",
+    "Bytes": 76753
+  },
+  {
+    "File": "MagicBees-1.12.2-3.2.25.jar",
+    "Bytes": 1109460
+  },
+  {
+    "File": "malisiscore-1.12.2-6.5.1.jar",
+    "Bytes": 1939783
+  },
+  {
+    "File": "malisisdoors-1.12.2-7.3.0.jar",
+    "Bytes": 1741669
+  },
+  {
+    "File": "Mantle-1.12-1.3.3.55.jar",
+    "Bytes": 843486
+  },
+  {
+    "File": "materialchanger1.0.3-1.12.2.jar",
+    "Bytes": 13249
+  },
+  {
+    "File": "mcjtylib-1.12-3.5.4.jar",
+    "Bytes": 544856
+  },
+  {
+    "File": "Mekanism-Community-Edition-1.12.2-9.12.10-Core.jar",
+    "Bytes": 7877911
+  },
+  {
+    "File": "Mekanism-Community-Edition-1.12.2-9.12.10-Generators.jar",
+    "Bytes": 336402
+  },
+  {
+    "File": "Mekanism-Community-Edition-1.12.2-9.12.10-Tools.jar",
+    "Bytes": 159846
+  },
+  {
+    "File": "mist-1.2.6.3a.jar",
+    "Bytes": 31237020
+  },
+  {
+    "File": "MJRLegendsLib-1.12.2-1.2.1.jar",
+    "Bytes": 116827
+  },
+  {
+    "File": "MoBends_1.12.2-1.2.1-19.12.21.jar",
+    "Bytes": 770595
+  },
+  {
+    "File": "MobGrindingUtils-0.3.13.jar",
+    "Bytes": 951922
+  },
+  {
+    "File": "MobStages-1.12.2-2.0.13.jar",
+    "Bytes": 24847
+  },
+  {
+    "File": "modtweaker-4.0.20.11.jar",
+    "Bytes": 493285
+  },
+  {
+    "File": "modularui-2.5.0-rc5.jar",
+    "Bytes": 1602456
+  },
+  {
+    "File": "More-Planets-1.12.2-2.3.3-GC4.0.6.jar",
+    "Bytes": 6018444
+  },
+  {
+    "File": "moreavaritia-mc1.12.2-v1.5.jar",
+    "Bytes": 81246
+  },
+  {
+    "File": "morelibs-1.12.2-1.2.2.jar",
+    "Bytes": 51380
+  },
+  {
+    "File": "moreoverlays-1.15.1-mc1.12.2.jar",
+    "Bytes": 51284
+  },
+  {
+    "File": "MorePlanetsExtras-1.12.2-1.0.jar",
+    "Bytes": 18044
+  },
+  {
+    "File": "moreplates-1.12.2-5.5.2.jar",
+    "Bytes": 301542
+  },
+  {
+    "File": "MoreTweaker-1.0.19.jar",
+    "Bytes": 312044
+  },
+  {
+    "File": "Morpheus-1.12.2-3.5.106.jar",
+    "Bytes": 21508
+  },
+  {
+    "File": "mpbasic-1.12.2-1.4.11.jar",
+    "Bytes": 108871
+  },
+  {
+    "File": "MPUtils-1.12.2-1.5.7.jar",
+    "Bytes": 250663
+  },
+  {
+    "File": "MTLib-3.0.7.jar",
+    "Bytes": 30009
+  },
+  {
+    "File": "multiblocked-0.8.10.jar",
+    "Bytes": 1471143
+  },
+  {
+    "File": "multiblockstages-1.2.0.jar",
+    "Bytes": 16601
+  },
+  {
+    "File": "musictriggers-7.0.4.jar",
+    "Bytes": 31624242
+  },
+  {
+    "File": "MysticalAgradditions-1.12.2-1.3.2.jar",
+    "Bytes": 134055
+  },
+  {
+    "File": "MysticalAgriculture-1.12.2-1.7.5.jar",
+    "Bytes": 1536124
+  },
+  {
+    "File": "mysticallib-1.12.2-1.13.0.jar",
+    "Bytes": 426226
+  },
+  {
+    "File": "natura-1.12.2-4.3.2.69.jar",
+    "Bytes": 1142687
+  },
+  {
+    "File": "NaturesAura-18.1.jar",
+    "Bytes": 767012
+  },
+  {
+    "File": "NaturesCompass-1.12.2-1.8.5.jar",
+    "Bytes": 196434
+  },
+  {
+    "File": "nd5u-1.0.jar",
+    "Bytes": 7736
+  },
+  {
+    "File": "Netherending-Ores-1.12.2-1.4.2.jar",
+    "Bytes": 367701
+  },
+  {
+    "File": "NetherEx-1.12.2-2.2.5.jar",
+    "Bytes": 2650771
+  },
+  {
+    "File": "nodami-1.12.2-1.2.5.jar",
+    "Bytes": 14973
+  },
+  {
+    "File": "NoiseThreader-1.1.0.jar",
+    "Bytes": 24157
+  },
+  {
+    "File": "Nyx-1.4.2.jar",
+    "Bytes": 411696
+  },
+  {
+    "File": "obfuscate-0.4.2-1.12.2.jar",
+    "Bytes": 129099
+  },
+  {
+    "File": "ocxnetdriver-1.0.3-b17.jar",
+    "Bytes": 22262
+  },
+  {
+    "File": "OmniscienceDebugger-1.12.2.005.jar",
+    "Bytes": 76992
+  },
+  {
+    "File": "OpenBlocks-1.12.2-1.8.1.jar",
+    "Bytes": 3217616
+  },
+  {
+    "File": "OpenComputers-MC1.12.2-1.8.9a+8ca336f.jar",
+    "Bytes": 16630725
+  },
+  {
+    "File": "OpenModsLib-1.12.2-0.12.2.jar",
+    "Bytes": 2639587
+  },
+  {
+    "File": "OreExcavation-1.4.150.jar",
+    "Bytes": 184743
+  },
+  {
+    "File": "OreLib-1.12.2-3.6.0.1.jar",
+    "Bytes": 341728
+  },
+  {
+    "File": "Overloaded-1.12.2-0.0.59.jar",
+    "Bytes": 12729930
+  },
+  {
+    "File": "p455w0rdslib-1.12.2-2.3.161.jar",
+    "Bytes": 328793
+  },
+  {
+    "File": "PackagedAuto-1.12.2-1.0.18.64.jar",
+    "Bytes": 391012
+  },
+  {
+    "File": "PackagedAvaritia-1.12.2-1.0.2.23.jar",
+    "Bytes": 53750
+  },
+  {
+    "File": "PackagedExCrafting-1.12.2-1.0.2.30.jar",
+    "Bytes": 198639
+  },
+  {
+    "File": "Patchouli-1.0-28.jar",
+    "Bytes": 468768
+  },
+  {
+    "File": "PerformanceMonitoringEnhancer1.12.2-1.1.1.jar",
+    "Bytes": 37317
+  },
+  {
+    "File": "Pillar-1.3.2.jar",
+    "Bytes": 37777
+  },
+  {
+    "File": "Placebo-1.12.2-1.6.1.jar",
+    "Bytes": 77207
+  },
+  {
+    "File": "plustic-8.0.6.jar",
+    "Bytes": 546442
+  },
+  {
+    "File": "PortalGun-1.12.2-7.1.0.jar",
+    "Bytes": 1717073
+  },
+  {
+    "File": "PotionCore-1.9_for_1.12.2.jar",
+    "Bytes": 145329
+  },
+  {
+    "File": "ProjectE-1.12.2-PE1.4.1.jar",
+    "Bytes": 1812973
+  },
+  {
+    "File": "ProjectEX-1.2.0.40.jar",
+    "Bytes": 383266
+  },
+  {
+    "File": "Psi-r1.1-79.jar",
+    "Bytes": 1762915
+  },
+  {
+    "File": "psio-1.12.2-1.0.3.jar",
+    "Bytes": 284507
+  },
+  {
+    "File": "QualityTools-1.0.7_for_1.12.2.jar",
+    "Bytes": 83553
+  },
+  {
+    "File": "Quark-r1.6-179.jar",
+    "Bytes": 3877577
+  },
+  {
+    "File": "questbook-3.1.1-1.12.jar",
+    "Bytes": 20203
+  },
+  {
+    "File": "random_complement-1.5.3.jar",
+    "Bytes": 273113
+  },
+  {
+    "File": "RandomThings-MC1.12.2-4.2.7.4.jar",
+    "Bytes": 3292861
+  },
+  {
+    "File": "randomtweaks-1.12.2-2.8.3.1.jar",
+    "Bytes": 288481
+  },
+  {
+    "File": "RebornCore-1.12.2-3.19.5-universal.jar",
+    "Bytes": 2285146
+  },
+  {
+    "File": "RecipeStages-1.1.3.8.jar",
+    "Bytes": 45386
+  },
+  {
+    "File": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+    "Bytes": 31802
+  },
+  {
+    "File": "Reliquary-1.12.2-1.3.4.796.jar",
+    "Bytes": 1247278
+  },
+  {
+    "File": "Reskillable-1.12.2-1.13.0.jar",
+    "Bytes": 338650
+  },
+  {
+    "File": "RFExpansion-3.4.31.jar",
+    "Bytes": 88598
+  },
+  {
+    "File": "rftools-1.12-7.73.jar",
+    "Bytes": 2895803
+  },
+  {
+    "File": "rftoolspower-1.12-1.2.0.jar",
+    "Bytes": 148083
+  },
+  {
+    "File": "RLMixins-1.4.2.jar",
+    "Bytes": 1226613
+  },
+  {
+    "File": "RoughlyEnoughIDs-2.2.3.jar",
+    "Bytes": 784124
+  },
+  {
+    "File": "rpsideas-2.4.4.jar",
+    "Bytes": 1175151
+  },
+  {
+    "File": "rspcompat-1.2.2.jar",
+    "Bytes": 14493
+  },
+  {
+    "File": "ScalingHealth-1.12.2-1.3.42+147.jar",
+    "Bytes": 369985
+  },
+  {
+    "File": "scanner-1.1.4-1.12.jar",
+    "Bytes": 180284
+  },
+  {
+    "File": "Scavenge V1.12-1.8.3.2.jar",
+    "Bytes": 534420
+  },
+  {
+    "File": "Scavenge-GameStage V1.12-1.2.jar",
+    "Bytes": 19553
+  },
+  {
+    "File": "SGCraft-2.0.5.jar",
+    "Bytes": 7941526
+  },
+  {
+    "File": "SilentLib-1.12.2-3.0.14+168.jar",
+    "Bytes": 369314
+  },
+  {
+    "File": "SilentsGems-1.12.2-2.8.22+327.jar",
+    "Bytes": 3485752
+  },
+  {
+    "File": "SilentsGems-TiC-1.12.2-0.1.1-5.jar",
+    "Bytes": 10330
+  },
+  {
+    "File": "simple-rpc-1.12.2-3.1.1.jar",
+    "Bytes": 1725290
+  },
+  {
+    "File": "SimpleDivingGear-1.1.1 mc 1.12.2.jar",
+    "Bytes": 63025
+  },
+  {
+    "File": "SimpleLogic-Gates-0.5.6.1.jar",
+    "Bytes": 134259
+  },
+  {
+    "File": "simpletrophies-1.2.2.1.jar",
+    "Bytes": 51327
+  },
+  {
+    "File": "Sledgehammer-1.12.2-2.0.26.jar",
+    "Bytes": 2368416
+  },
+  {
+    "File": "SolarFluxReborn-1.12.2-12.4.11.jar",
+    "Bytes": 715629
+  },
+  {
+    "File": "sonarcore-1.12.2-5.0.19-20.jar",
+    "Bytes": 1160618
+  },
+  {
+    "File": "SpaceAmbient-1.12.2-0.0.1.jar",
+    "Bytes": 31465665
+  },
+  {
+    "File": "SpawnerControl-1.6.3b.jar",
+    "Bytes": 49537
+  },
+  {
+    "File": "specifiedspawning-1.12.2-0.6.2.jar",
+    "Bytes": 314655
+  },
+  {
+    "File": "SpikedFoods-1.1.jar",
+    "Bytes": 92926
+  },
+  {
+    "File": "Stackie-1.12.2-1.6.0.48-universal.jar",
+    "Bytes": 51841
+  },
+  {
+    "File": "StageTables-1.12.2-1.0.3.jar",
+    "Bytes": 27745
+  },
+  {
+    "File": "StellarCore-1.5.22.jar",
+    "Bytes": 1342013
+  },
+  {
+    "File": "stevekung's-lib-mc1.12.2-v1.3.1.jar",
+    "Bytes": 107742
+  },
+  {
+    "File": "StorageDrawers-1.12.2-5.5.3.jar",
+    "Bytes": 621871
+  },
+  {
+    "File": "StorageDrawersExtras-1.12-3.1.0.jar",
+    "Bytes": 402870
+  },
+  {
+    "File": "subcommonlib-sublib-1.12.2-1.2.0.4.jar",
+    "Bytes": 40890
+  },
+  {
+    "File": "tellme-1.12.2-0.7.0-dev.20200919.184303.jar",
+    "Bytes": 282258
+  },
+  {
+    "File": "temporaldynamics-0.2.jar",
+    "Bytes": 37672
+  },
+  {
+    "File": "tesla-core-lib-1.12.2-1.0.18.jar",
+    "Bytes": 1139012
+  },
+  {
+    "File": "theaurorian-1.12.2-1.2.jar",
+    "Bytes": 18688557
+  },
+  {
+    "File": "TheBetweenlands-3.9.6-universal.jar",
+    "Bytes": 142231400
+  },
+  {
+    "File": "theimpossiblelibrary-0.4.5.jar",
+    "Bytes": 7590297
+  },
+  {
+    "File": "themidnight-0.3.5.jar",
+    "Bytes": 12695175
+  },
+  {
+    "File": "theoneprobe-1.12-1.4.28.jar",
+    "Bytes": 301893
+  },
+  {
+    "File": "ThermalCultivation-1.12.2-0.3.6.1-universal.jar",
+    "Bytes": 98845
+  },
+  {
+    "File": "ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+    "Bytes": 728082
+  },
+  {
+    "File": "ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+    "Bytes": 2345139
+  },
+  {
+    "File": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+    "Bytes": 2219736
+  },
+  {
+    "File": "ThermalInnovation-1.12.2-0.3.6.1-universal.jar",
+    "Bytes": 182379
+  },
+  {
+    "File": "TimeCore-1.12.2-1.0.1.1.jar",
+    "Bytes": 7602172
+  },
+  {
+    "File": "tinker_io-1.12.2-rw2.8.3.jar",
+    "Bytes": 5770361
+  },
+  {
+    "File": "TinkersAntique-1.12.2-2.13.0.202.jar",
+    "Bytes": 4512447
+  },
+  {
+    "File": "TinkerToolLeveling-1.12.2-1.1.0.jar",
+    "Bytes": 95850
+  },
+  {
+    "File": "tinyprogressions-1.12.2-3.3.34-Release.jar",
+    "Bytes": 1134227
+  },
+  {
+    "File": "togetherforever-1.12.2-1.0.12-22.jar",
+    "Bytes": 75451
+  },
+  {
+    "File": "tombstone-1.12.2-4.7.5.jar",
+    "Bytes": 1573568
+  },
+  {
+    "File": "toolprogression-1.12.2-1.6.12.jar",
+    "Bytes": 96478
+  },
+  {
+    "File": "topaddons-1.12.2-1.13.0.jar",
+    "Bytes": 243603
+  },
+  {
+    "File": "Translocators-1.12.2-2.5.2.81-universal.jar",
+    "Bytes": 446678
+  },
+  {
+    "File": "TravelersBackpack-1.12.2-1.0.35.jar",
+    "Bytes": 397467
+  },
+  {
+    "File": "Traverse-1.12.2-1.6.0-69.jar",
+    "Bytes": 270133
+  },
+  {
+    "File": "Triumph-1.12.2-3.19.2.jar",
+    "Bytes": 367437
+  },
+  {
+    "File": "TTweaker-2.0.jar",
+    "Bytes": 88983
+  },
+  {
+    "File": "twilightforest-1.12.2-3.13b.jar",
+    "Bytes": 28775278
+  },
+  {
+    "File": "UniDict-1.12.2-3.0.10.jar",
+    "Bytes": 225385
+  },
+  {
+    "File": "UniversalTweaks-1.12.2-1.15.2.jar",
+    "Bytes": 1609423
+  },
+  {
+    "File": "valkyrielib-1.12.2-2.0.20.1.jar",
+    "Bytes": 733580
+  },
+  {
+    "File": "vc-1.12.2-5.10-final.jar",
+    "Bytes": 17072637
+  },
+  {
+    "File": "VillagerTradingBan-2.0.0.6-universal.jar",
+    "Bytes": 4218
+  },
+  {
+    "File": "vintagefix-0.6.2.jar",
+    "Bytes": 1034861
+  },
+  {
+    "File": "WanionLib-1.12.2-2.91.jar",
+    "Bytes": 223035
+  },
+  {
+    "File": "Waystones_1.12.2-4.1.0.jar",
+    "Bytes": 178994
+  },
+  {
+    "File": "worldprimer-1.12.2-0.6.0-dev.20200122.211517.jar",
+    "Bytes": 101191
+  },
+  {
+    "File": "WrapUp-1.12-1.1.3.jar",
+    "Bytes": 25417
+  },
+  {
+    "File": "XL-Food-Mod-1.12.2-1.9.2.jar",
+    "Bytes": 400208
+  },
+  {
+    "File": "xnet-1.12-1.8.4-ynet.jar",
+    "Bytes": 494967
+  },
+  {
+    "File": "XU2-Patcher-1.0.2.jar",
+    "Bytes": 104614
+  },
+  {
+    "File": "YNot-0.2.4.jar",
+    "Bytes": 63867
+  },
+  {
+    "File": "zenrecipereloading-1.4.5.jar",
+    "Bytes": 347852
+  },
+  {
+    "File": "zenstages-0.5.0.jar",
+    "Bytes": 48338
+  },
+  {
+    "File": "zenutils-1.25.1.jar",
+    "Bytes": 670702
+  },
+  {
+    "File": "zerocore-1.12.2-0.1.2.9.jar",
+    "Bytes": 227426
+  },
+  {
+    "File": "ZollernGalaxy-1.12.2-2.0.45.jar",
+    "Bytes": 9549618
+  }
+]
