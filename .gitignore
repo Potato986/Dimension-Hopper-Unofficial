@@ -6,11 +6,9 @@ crash-reports/
 *.exe
 *.jar
 *.zip
-server-reference/mods/
-server-reference/libraries/
-server-reference/world/
-@'
 /hmcl-instance/
 /release-candidate/
 /test/
-'@ | Add-Content .gitignore
+/server-reference/mods/
+/server-reference/libraries/
+/server-reference/world/
